@@ -1,5 +1,5 @@
 # AI-prompoty-battle
-Create a professional food delivery landing page called "BiteBuddy" using React and Tailwind CSS.
+Create a professional food delivery landing page called "BiteBuddy".
 
 Key Layout:
 
